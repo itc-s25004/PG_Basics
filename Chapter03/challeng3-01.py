@@ -1,0 +1,1 @@
+print("banana","sanba","mexico")
